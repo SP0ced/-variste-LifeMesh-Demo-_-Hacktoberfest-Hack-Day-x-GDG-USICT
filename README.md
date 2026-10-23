@@ -101,11 +101,10 @@ npm run dev
 
 ---
 
-## 👥 Team Évariste (IIIT Delhi)
-* **Khushan Singh** (khushan25263@iiitd.ac.in)
-* **Kushaan** (kushaan25285@iiitd.ac.in)
-* **Krish** (krish25271@iiitd.ac.in)
-* **Khaleek Ahmad** (ahmad25053@iiitd.ac.in)
+## 👥 Team Évariste
+* **Varun Kumar** — *Team Leader* (Atma Ram Sanatan Dharma College, University of Delhi | GitHub: [@varunkm26](https://github.com/varunkm26) | `varunmahatovlogs@gmail.com`)
+* **Khushan Singh** — *Core Systems & Multimodal AI* (IIIT Delhi | GitHub: [@SP0ced](https://github.com/SP0ced) | `khushansinghiiitd@gmail.com`)
+* **Palak** — *Research & Frontend Engineering* (IIIT Delhi | GitHub: [@palak2804](https://github.com/palak2804) | `palakiiitd@gmail.com`)
 
 ---
 
